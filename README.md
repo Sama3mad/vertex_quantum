@@ -40,11 +40,11 @@ pip install qiskit-algorithms qiskit-terra qiskit-primitives
 
 ## Example outputs
 
-###Example 1: Classical RRT* 
+### Example 1: Classical RRT* 
 Input: Start = (10, 10), Goal = (400, 400), Obstacles = [ ( 100 , 100 ) , ( 200 , 300 ) , ( 350 , 150 ) ] [(100,100),(200,300),(350,150)] Output: A collision-free path from the start to the goal, visualized using Pygame.
 Visualization: shown in classical code output.jpeg
 
-###Example 2: Quantum-Enhanced RRT* 
+### Example 2: Quantum-Enhanced RRT* 
 Input: Same as Example 1. 
 Output: A globally optimized path with reduced cost, leveraging quantum annealing.
 Visualization: shown in quantum code output.jpeg
