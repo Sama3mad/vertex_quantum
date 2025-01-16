@@ -46,7 +46,7 @@ Input: Start = (10, 10), Goal = (400, 400), Obstacles = [ ( 100 , 100 ) , ( 200 
 
 Output: A collision-free path from the start to the goal, visualized using Pygame.
 
-Visualization: shown in classical code output.jpeg
+Visualization: shown in **classical code output.jpeg**
 
 ### Example 2: Quantum-Enhanced RRT* 
 
@@ -54,5 +54,5 @@ Input: Same as Example 1.
 
 Output: A globally optimized path with reduced cost, leveraging quantum annealing.
 
-Visualization: shown in quantum code output.jpeg
+Visualization: shown in **quantum code output.jpeg**
 
