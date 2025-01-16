@@ -36,6 +36,8 @@ pip install qiskit-algorithms qiskit-terra qiskit-primitives
 
 ```
 
+---
+
 ## Example outputs
 
 ###Example 1: Classical RRT* 
