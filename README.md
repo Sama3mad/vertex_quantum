@@ -11,7 +11,8 @@ The repository contains the following files:
 1. **README.md**: This file provides an overview of the project, instructions for running the code, and examples of the output.
 2. **Classic Code (1).ipynb**: Jupyter Notebook containing the implementation of the classical RRT* algorithm for robotic path planning.
 3. **Quantum code.py**: Python script integrating quantum annealing using Qiskit for optimizing the RRT* algorithm.
-4. **image.png**: Example visualization of the path planning process.
+4. **classical code output.jpeg**: Example visualization of the path planning process using the classical code.
+5. **quantum code output.jpeg**: Example visualization of the path planning process using the quantum code.
 
 ---
 
@@ -34,15 +35,6 @@ pip install qiskit
 pip install qiskit-algorithms qiskit-terra qiskit-primitives
 
 ```
-
-## Running the Code
-The repository contains the following files:
-
-1. **README.md**: This file provides an overview of the project, instructions for running the code, and examples of the output.
-2. **Classic Code (1).ipynb**: Jupyter Notebook containing the implementation of the classical RRT* algorithm for robotic path planning.
-3. **Quantum code.py**: Python script integrating quantum annealing using Qiskit for optimizing the RRT* algorithm.
-4. **classical code output.jpeg**: Example visualization of the path planning process using the classical code.
-5. **quantum code output.jpeg**: Example visualization of the path planning process using the quantum code.
 
 ## Example outputs
 
